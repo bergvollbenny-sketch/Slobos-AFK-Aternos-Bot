@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FriendSMPWithUs.aternos.me:26321",
+    "ip": "FriendSMPWithUs.aternos.me",
     "port": 26321,
     "version": "",
     "try-creative": false
